@@ -1,12 +1,12 @@
 import setuptools
 setuptools.setup(
-    name = "myCawler",
+    name = "mycawler",
     packages=["myweb"],
     version="0.0.1",
     description="oss easily myCrawler",
     author = "ChaeHwanJeon",
-    url ="https://github.com/JeonChaeHwan/webcrawler",
-    download_url="https://github.com/JeonChaeHwan/webcrawler",
+    url ="https://github.com/JeonChaeHwan/myCrawler",
+    download_url="https://github.com/JeonChaeHwan/myCrawler/",
     install_requires = ["bs4", "requests"],
     classifiers = [
         "Programming Language :: Python :: 3",
