@@ -14,7 +14,7 @@
 1. get_html(url):
   URL로부터 HTML을 가져오고, 에러 발생 시 에러 코드를 출력한다.
 
-2.parse_html(html):
+2. parse_html(html):
   html을 파싱한다.
   
 3. extract_text(soup, selector):
