@@ -1,6 +1,6 @@
 import setuptools
 setuptools.setup(
-    name = "mycawler",
+    name = "mycrawler",
     packages=["myweb"],
     version="0.0.1",
     description="oss easily myCrawler",
