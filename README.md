@@ -1,6 +1,6 @@
 # myCrawler
 
-패키지 링크: https://pypi.org/project/my_crawler/0.0.1
+패키지 링크: https://pypi.org/project/mycrawlers
 
 깃허브 레퍼지토리: https://github.com/JeonChaeHwan/myCrawler
 
