@@ -6,7 +6,7 @@
 
 다운로드: pip install mywab
 
-사용방법: from my_crawler import mycrawler as mc
+사용방법: from mycrawler import mycrawler as mc
 
 저는 1학년 때 파이썬을 사용하는 수업들에서 bs4의 beautifulSoup와 requests를 사용해 웹 크롤링을 하는 방법을 배우면서, 웹 크롤링의 복잡성(HTML 구조를 파싱하고, 데이터를 추출하는 등의 작업이 필요함)을 느끼게 되었습니다. 이를 완화하고자 둘을 import해 myweb를 만들게 되었습니다.
 
