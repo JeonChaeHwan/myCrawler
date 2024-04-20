@@ -1,7 +1,7 @@
 import setuptools
 setuptools.setup(
-    name = "mycrawler",
-    packages=["mycrawler"],
+    name = "mycrawlers",
+    packages=["mycrawlers"],
     version="0.0.1",
     description="oss easily myCrawler",
     author = "ChaeHwanJeon",
