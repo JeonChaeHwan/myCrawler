@@ -13,7 +13,7 @@ setup(
     install_requires = ["bs4", "requests"],
     classifiers = [
         "Programming Language :: Python :: 3",
-    ]
+    ],
 
     long_description = long_description,
     long_description_content_type = 'text/markdonw',
