@@ -11,4 +11,8 @@ setuptools.setup(
     classifiers = [
         "Programming Language :: Python :: 3",
     ]
+    with open('README.md', encoding='utf-8') as f:
+        long_description = f.read()
+    long_description = long_description,
+    long_description_content_type = 'text/markdonw',
 )
